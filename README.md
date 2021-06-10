@@ -10,7 +10,7 @@ Een js library die ik geschreven heb om in een WebGL game die met unity / C# gem
 
 ## Handig om te weten
 
-  - De SpeechSynthesis kan niet in de Unity editor gebruikt worden. om het te testen moet de applicatie gebouwd worden en in een browser getest worden.
+  - De SpeechSynthesis kan niet in de Unity editor gebruikt worden. Om het te testen moet de applicatie gebouwd worden en in een browser getest worden.
 Tijdens het testen in de editor is het handig om de Speaker.SpeakOutLoud() aanroepingen uit te commenten en te vervangen met een Debug.Log 's.
 
   - De SpeechSynthesis werkt in een browser pas na de eerste input van een gebruiker. 
